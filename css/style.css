@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    display: block;
+    font-size: 60px;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    margin-top: 200px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#snakeboard {
+    margin: auto;
+}
+#score {
+    text-align: center;
+    font-size: 140px;
+}
